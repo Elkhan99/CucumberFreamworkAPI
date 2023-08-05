@@ -1,0 +1,20 @@
+{
+	"Add-PET":{
+    "id": 155,
+    "name": "Bird",
+    "category": {
+        "id": 117,
+        "name": "Peagon"
+    },
+    "photoUrls": [
+        "https://samplephoto.com/5"
+    ],
+    "tags": [
+        {
+            "id": 11,
+            "name": "Bird_01"
+        }
+    ],
+    "status": "available"
+	}
+}
