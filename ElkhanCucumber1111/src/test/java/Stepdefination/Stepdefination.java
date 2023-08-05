@@ -73,7 +73,7 @@ public void response_body_of_find_by_petid_api_is_matching_with_swagger() {
 
 @When("user change the Pet information using UpdatedPETID API")
 public void user_change_the_pet_information_using_updated_petid_api() {
-    // Write code here that turns the phrase above into concrete actions
+    
     throw new io.cucumber.java.PendingException();
 }
 
